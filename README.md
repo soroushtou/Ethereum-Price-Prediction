@@ -9,3 +9,7 @@ https://www.kaggle.com/tanmay1710/ethereum-price-trend-historical-data
 Note: This program can predict the price for 4 days, and it is not tested in real conditions.
 I just tested it on the actual dataset.
 
+![1](https://github.com/soroushtou/Ethereum-Price-Prediction/blob/main/images/1%20(4).jpg)
+![2](https://github.com/soroushtou/Ethereum-Price-Prediction/blob/main/images/1%20(2).jpg)
+![3](https://github.com/soroushtou/Ethereum-Price-Prediction/blob/main/images/1%20(3).jpg)
+![4](https://github.com/soroushtou/Ethereum-Price-Prediction/blob/main/images/1%20(1).png)
